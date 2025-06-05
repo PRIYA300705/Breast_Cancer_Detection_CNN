@@ -87,8 +87,8 @@ pip install tensorflow opencv-python pandas numpy scikit-learn
 ---
 
 ### **Author**  
-**Izaan Ibrahim Sayed**  
-Email: izaanahmad37@gmail.com  
-GitHub: [github.com/izaanahmad37](https://github.com/izaanibrahim37) 
+**Priya Sah**  
+Email: priyasah3005@gmail.com  
+GitHub: [github.com/PRIYA300705](https://github.com/PRIYA300705) 
 
 
